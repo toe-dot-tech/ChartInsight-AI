@@ -1,0 +1,38 @@
+name: chartinsight_ai
+description: AI-powered trading chart analyzer using Google Gemini
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  get: ^4.6.6
+  
+  # Network
+  dio: ^5.5.0+1
+  
+  # Image Handling
+  image_picker: ^1.1.2
+  
+  # UI/Design
+  google_fonts: ^6.2.1
+  lottie: ^3.1.2
+  
+  # Utilities
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  
+
+flutter:
+  uses-material-design: true
+  
+ 
