@@ -373,3 +373,114 @@ Manage dependency injection:
 - Free Tier: 60 requests/minute
 - For production: Consider upgrading to paid tier
 
+
+## 📄 License
+### This project is licensed under the MIT License - see the LICENSE file for details.
+
+```
+MIT License
+
+Copyright (c) 2024 ChartInsight AI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
+
+
+## 🙏 Acknowledgments
+### Technologies
+- Flutter - UI framework
+- GetX - State management
+- Google Gemini - AI model
+- Dio - HTTP client
+  
+### Inspiration
+- TradingView for chart analysis concepts
+- Modern fintech apps for UI/UX inspiration
+- Flutter community for best practices
+
+### Contributors
+- Thanks to all contributors who help improve ChartInsight AI!
+
+<a href="https://github.com/amirbayat0/chartinsight-ai/graphs/contributors"> <img src="https://contrib.rocks/image?repo=amirbayat0/ChartInsight-AI" /> </a>
+
+
+## 📞 Support & Contact
+
+### Get Help
+- 📧 Email: amirbayat.dev@gmail.com
+ 
+### Report Issues
+- Found a bug? Open an issue
+
+### Feature Requests
+- Have an idea? Submit a feature request
+
+
+## ❓ FAQ
+<details> <summary><strong>Is this app free to use?</strong></summary>
+Yes! The app is completely free. You only need a free Google Gemini API key (60 requests/min).
+
+</details><details> <summary><strong>Does it work offline?</strong></summary>
+Analysis requires internet to connect to Gemini API. However, you can view previously analyzed charts offline.
+
+</details><details> <summary><strong>Is the analysis accurate?</strong></summary>
+The AI provides educated insights based on technical analysis principles. However, this is NOT financial advice. Always do your own research.
+
+</details><details> <summary><strong>What chart types are supported?</strong></summary>
+Any screenshot of candlestick, line, or bar charts for crypto, forex, stocks, or commodities.
+
+</details><details> <summary><strong>Can I use this for live trading?</strong></summary>
+This tool is for educational purposes only. Use at your own risk. Past performance doesn't guarantee future results.
+
+</details><details> <summary><strong>How do I get a Gemini API key?</strong></summary>
+Visit Google AI Studio, sign in, and click "Create API Key". It's free!
+
+</details><details> <summary><strong>Can I contribute to this project?</strong></summary>
+Absolutely! See the Contributing section. We welcome all contributions.
+
+</details>
+
+
+## ⚖️ Disclaimer
+### IMPORTANT: This application is for educational and informational purposes only.
+
+- ❌ NOT financial advice
+- ❌ NOT investment recommendations
+- ❌ NOT guaranteed to be accurate
+- Trading and investing involve substantial risk of loss. Always:
+
+- ✅ Do your own research (DYOR)
+- ✅ Consult with licensed financial advisors
+- ✅ Never invest more than you can afford to lose
+- ✅ Understand the risks involved
+- The developers are not responsible for any financial losses incurred using this app.
+
+
+<div align="center">
+
+### ⭐ Star this repo if you find it helpful!  
+
+**Made with ❤️ by Flexz**
+
+</div>
+
+
+
+
+
+
+
+
+
